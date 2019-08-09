@@ -1,0 +1,8 @@
+[{
+	"modid": "foreport",
+	"name": "Foreport",
+	"description": "For the old isn't all the good, but the new isn't all the better.",
+	"version": "${version}",
+	"mcversion": "${mcversion}",
+	"authorList": ["Newb I the Newbd"]
+}]
