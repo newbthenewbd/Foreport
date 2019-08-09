@@ -22,9 +22,9 @@ But wait, what does Foreport even change? The quasi-hellish experience of vanill
 # Screenshots
 Finally. You have finished reading through all the mess supposed to explain what the mod is, or just scrolled all the way down there, and understand few enough to want to see the screenshots. Certainly a rational thing to do in our book. Except, there's a slight problem — no screenshots are to be found! Turns out that it is very hard to accurately represent on a screenshot what exactly Foreport does, and that has forced us to make a short trailer video instead.  
 
-<p align="center"><a href="treasures/Foreport.mp4"><img src="treasures/play.jpg" alt="Play"/></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/newbthenewbd/Foreport/master/treasures/Foreport.mp4"><img src="treasures/play.jpg" alt="Play"/></a></p>
 
-Can't make anything out of the video? Let's be honest here, we hardly can as well. [Check out the video snapshots here!](https://www.curseforge.com/minecraft/mc-mods/foreport/screenshots)
+Can't make anything out of the video? Let's be honest here, we hardly can as well, however awesome or not be it. [Check out the video snapshots here!](https://www.curseforge.com/minecraft/mc-mods/foreport/screenshots)
 
 # Installation
 Finally times two! You have finished reading through all the mess and inspecting the trailer video trying to spot the differences, and now want to download Foreport. ~~Except, there's a slight problem...~~
