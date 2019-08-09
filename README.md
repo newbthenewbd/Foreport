@@ -48,7 +48,7 @@ Last but not least, the most special thanks go to [this great friend of mine](ht
 
 [![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=sendmoney%40go2%2epl&lc=US&item_name=Donate%20to%20the%20GitHub%20user%20newbthenewbd&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
 
-**\*** We realize that few of us actually sleep on mone. We don't either! Because of this, an alternative way to donate to the Foreport project is to donate your precious time by spreading the word. Tell all your malcontent friends about Foreport, explain to the content ones as to why vanilla 1.12 has it worse, bundle Foreport with all your modpacks, install it on your school computers, you name it! For extra awesomeness, tell us about it, too!\*\*
+**\*** We realize that few of us actually do sleep on mone. We don't either! Because of this, an alternative way to donate to the Foreport project is to donate your precious time by spreading the word. Tell all your malcontent friends about Foreport, explain to the content ones as to why vanilla 1.12 has it worse, bundle Foreport with all your modpacks, install it on your school computers, you name it! For extra awesomeness, tell us about it, too!\*\*
 
 **\*\*** While we don't offer any perks for donating, the aforementioned actions will increase our self-awesomeness too!
 
