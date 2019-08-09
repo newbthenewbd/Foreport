@@ -27,7 +27,7 @@ Psst, _really_ want a graphics file? [Here you are!](https://raw.githubuserconte
 # Installation
 Finally times two! You have finished reading through all the mess and inspecting the trailer video trying to spot the differences, and now want to download Foreport. ~~Except, there's a slight problem...~~
 
-Foreport can be downloaded from within [GitHub](releases/latest) or [CurseForge](https://www.curseforge.com/minecraft/mc-mods/foreport). Simply choose the latest `jar` file, download it and put it into the `mods` directory, usually located under `%appdata%\.minecraft` on Windows, `~/.minecraft` on Linux, and `~/Library/Application Support/minecraft` on macOS.
+Foreport can be downloaded from within [GitHub](https://github.com/newbthenewbd/Foreport/releases/latest) or [CurseForge](https://www.curseforge.com/minecraft/mc-mods/foreport). Simply choose the latest `jar` file, download it and put it into the `mods` directory, usually located under `%appdata%\.minecraft` on Windows, `~/.minecraft` on Linux, and `~/Library/Application Support/minecraft` on macOS.
 
 Alternatively, you may use the Twitch Launcher or compatible to automatically install the mod.
 
