@@ -22,7 +22,7 @@ But wait, what does Foreport even change? The quasi-hellish experience of vanill
 # Screenshots
 Finally! You have finished reading through all the mess supposed to explain what the mod is, or just knew to scroll all the way down there and look at the screenshots... And you're out of luck, because we have figured that pure screenshots wouldn't convey the idea of the mod. Here, have a trailer movie.
 
-<p align="center"><a href="https://raw.githubusercontent.com/newbthenewbd/Foreport/master/treasures/Foreport.mp4"><img  width="710" src="treasures/play.jpg" alt="Foreport Trailer Movie"/></a></p>
+<p align="center"><a href="https://github.com/newbthenewbd/Foreport/raw/master/treasures/Foreport.mp4"><img width="710" src="treasures/play.jpg" alt="Foreport Trailer Movie"/></a></p>
 
 Can you make anything out of the movie? No??? ...fine, let's be honest, we hardly can as well, however awesome or not be it. [Thankfully, we have actually uploaded very legible snapshots!](https://www.curseforge.com/minecraft/mc-mods/foreport/screenshots)
 
