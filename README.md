@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="#"><img src="treasures/Foreport.png" alt="Logo"/></a>
+	<a href="#"><img src="treasures/Foreport.png" alt="Foreport Logo"/></a>
 	<br>
 	<b><i>For the old isn't all the good, but the new isn't all the better</i></b>
 </p>
@@ -20,14 +20,14 @@ But wait, what does Foreport even change? The quasi-hellish experience of vanill
 * Hey, look, an Enderman! Let's feed him the leftover trash, what could possibly happen?
 
 # Screenshots
-Finally. You have finished reading through all the mess supposed to explain what the mod is, or just scrolled all the way down there, and understand few enough to want to see the screenshots. Certainly a rational thing to do in our book. Except, there's a slight problem — no screenshots are to be found! Turns out that it is very hard to accurately represent on a screenshot what exactly Foreport does, and that has forced us to make a short trailer video instead.  
+Finally! You have finished reading through all the mess supposed to explain what the mod is, or just knew to scroll all the way down there and look at the screenshots... And you're out of luck, because we have figured that pure screenshots wouldn't convey the idea of the mod. Here, have a trailer movie.
 
-<p align="center"><a href="https://raw.githubusercontent.com/newbthenewbd/Foreport/master/treasures/Foreport.mp4"><img src="treasures/play.jpg" alt="Play"/></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/newbthenewbd/Foreport/master/treasures/Foreport.mp4"><img  width="710" src="treasures/play.jpg" alt="Foreport Trailer Movie"/></a></p>
 
-Can't make anything out of the video? Let's be honest here, we hardly can as well, however awesome or not be it. [Check out the video snapshots here!](https://www.curseforge.com/minecraft/mc-mods/foreport/screenshots)
+Can you make anything out of the movie? No??? ...fine, let's be honest, we hardly can as well, however awesome or not be it. [Thankfully, we have actually uploaded very legible snapshots!](https://www.curseforge.com/minecraft/mc-mods/foreport/screenshots)
 
 # Installation
-Finally times two! You have finished reading through all the mess and inspecting the trailer video trying to spot the differences, and now want to download Foreport. ~~Except, there's a slight problem...~~
+Finally times two! You have finished reading through all the mess, inspected the trailer movie trying to spot the differences, and further inspected the snapshots. Or you may have simply scrolled all the way down there, completely ignoring the data we threw at you, whatever. From now on, we will assume that you liked Foreport and want to install it.
 
 Foreport can be downloaded from within [GitHub](https://github.com/newbthenewbd/Foreport/releases/latest) or [CurseForge](https://www.curseforge.com/minecraft/mc-mods/foreport). Simply choose the latest `jar` file, download it and put it into the `mods` directory, usually located under `%appdata%\.minecraft` on Windows, `~/.minecraft` on Linux, and `~/Library/Application Support/minecraft` on macOS.
 
